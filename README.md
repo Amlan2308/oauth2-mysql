@@ -1,1 +1,1 @@
-# oauth2-mysql
+oauth2 implementation using jpa and mysql.
